@@ -13,7 +13,7 @@ const Gallery = ({ data }) => {
             </div>
             <div className="details">
               <p className="description">{item.description}</p>
-              <p className="price">$ {item.price}</p>
+              <p className="price">$ {item.price} c/u </p>
               <p className="quantity">Unidades disponibles: {item.quantity}</p>
             </div>
           </div>
