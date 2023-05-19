@@ -6,9 +6,21 @@
       "price": 5000
     },
     {
-      "id": 1,
+      "id": 2,
       "description": "Ventilador Liliana",
       "image": "https://i.ibb.co/17c33K8/IMG-20230504-WA0074.jpg",
       "price": 10000
+    },
+    {
+      "id": 3,
+      "description": "Silla algarrobo",
+      "image": "https://i.ibb.co/QmJDBjc/silla-algarrobo.jpg",
+      "price": 5000
+    },
+    {
+      "id": 4,
+      "description": "Aire acondicionado Philco",
+      "image": "https://i.ibb.co/ScM4G70/Aire-acondicionado-philco.jpg",
+      "price": 150000
     }
   ]  
