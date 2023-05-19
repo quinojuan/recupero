@@ -11,7 +11,7 @@ const Gallery = ({ data }) => {
             <img src={item.image} alt={item.description} />
             <div className="details">
               <p className="description">{item.description}</p>
-              <p className="price">${item.price}</p>
+              <p className="price">$ {item.price}</p>
             </div>
           </div>
         ))}
