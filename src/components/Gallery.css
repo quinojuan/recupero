@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
 * {
   box-sizing: border-box;
+  font-family: "Roboto";
 }
 
 .title {
@@ -24,10 +27,17 @@
 
 .card img {
   margin-top: 10px;
+  margin-bottom: 10px;
   max-width: 250px;
   max-height: 250px;
 }
 
 .card p {
   text-align: center;
+  margin: 5px;
+}
+
+.price {
+    color: darkblue;
+    font-weight: 600;
 }
