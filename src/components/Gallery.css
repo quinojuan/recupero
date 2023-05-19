@@ -22,6 +22,9 @@
 
 }
 
+.description {
+    font-weight: bold;
+}
 .marco {
   display: flex;
   justify-content: center;

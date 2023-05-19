@@ -14,6 +14,7 @@ const Gallery = ({ data }) => {
             <div className="details">
               <p className="description">{item.description}</p>
               <p className="price">$ {item.price}</p>
+              <p className="quantity">Unidades disponibles: {item.quantity}</p>
             </div>
           </div>
         ))}

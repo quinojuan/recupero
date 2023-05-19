@@ -2,24 +2,28 @@
     {
       "id": 1,
       "description": "Mesa de algarrobo",
+      "quantity": 1,
       "image": "https://i.ibb.co/QvK1hgw/IMG-20230504-WA0079.jpg",
       "price": 5000
     },
     {
       "id": 2,
       "description": "Ventilador Liliana",
+      "quantity": 0,
       "image": "https://i.ibb.co/17c33K8/IMG-20230504-WA0074.jpg",
       "price": 10000
     },
     {
       "id": 3,
       "description": "Silla algarrobo",
+      "quantity": 4,
       "image": "https://i.ibb.co/QmJDBjc/silla-algarrobo.jpg",
       "price": 5000
     },
     {
       "id": 4,
       "description": "Aire acondicionado Philco",
+      "quantity": 1,
       "image": "https://i.ibb.co/ScM4G70/Aire-acondicionado-philco.jpg",
       "price": 150000
     }
