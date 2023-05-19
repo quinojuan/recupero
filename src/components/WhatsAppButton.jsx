@@ -12,10 +12,11 @@ const WhatsAppButton = () => {
 
   return (
     <>
-      <button className="btn" onClick={handleWhatsAppClick}>
-        <img className="wts" src={whatsapp} alt="WhatsApp" />
-      </button>
-      <p>Contactar por WhatsApp</p>
+      <div className="container">
+        <button className="btn" onClick={handleWhatsAppClick}>
+          <img className="wts" src={whatsapp} alt="WhatsApp" />
+        </button>
+      </div>
     </>
   );
 };

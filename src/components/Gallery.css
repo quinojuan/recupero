@@ -1,18 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
 .title {
-    text-align: center;
+  text-align: center;
 }
 
 .gallery {
-    display: flex;
-    gap: 20px;
+  display: flex;
+  gap: 20px;
+}
+
+.card {
+  border: 1px solid black;
+  width: 300px;
+}
+
+.marco {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .card img {
-    max-width: 250px;
-    max-height: 250px;
-    
+  margin-top: 10px;
+  max-width: 250px;
+  max-height: 250px;
 }
 
 .card p {
-    text-align: center;
+  text-align: center;
 }
