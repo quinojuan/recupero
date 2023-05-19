@@ -1,0 +1,14 @@
+.gallery {
+    display: flex;
+    gap: 20px;
+}
+
+.card img {
+    max-width: 250px;
+    max-height: 250px;
+    
+}
+
+.card p {
+    text-align: center;
+}
