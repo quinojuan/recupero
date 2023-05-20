@@ -3,19 +3,28 @@ import whatsapp from "../assets/whatsapp.png";
 import "../components/WhatsAppButton.css";
 
 const WhatsAppButton = () => {
-  const phoneNumber = "5491160300518"; // Agrega aquí tu número de teléfono
+  // const phoneNumber = "5491160300518"; // Agrega aquí tu número de teléfono
 
-  const handleWhatsAppClick = () => {
-    const url = `https://api.whatsapp.com/send?phone=${phoneNumber}`;
-    window.open(url, "_blank");
-  };
+  // const handleWhatsAppClick = () => {
+  //   const url = `https://api.whatsapp.com/send?phone=${phoneNumber}`;
+  //   window.open(url, "_blank");
+  // };
 
   return (
     <>
       <div className="container">
-        <button className="btn" onClick={handleWhatsAppClick}>
+        {/* <button className="btn" onClick={handleWhatsAppClick}>
           <img className="wts" src={whatsapp} alt="WhatsApp" />
-        </button>
+        </button> */}
+
+        <a
+          href="https://wa.me/5211234567890?text=Me%20gustaría%20mas%20información%20de: "
+          class="whatsapp"
+          target="_blank"
+        >
+          {" "}
+          <i class="fa fa-whatsapp whatsapp-icon"></i>
+        </a>
       </div>
     </>
   );
