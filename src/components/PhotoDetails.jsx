@@ -10,25 +10,25 @@ export const PhotoDetails = ({ data }) => {
   console.log(newData);
   return (
       <>
-      <BackButton />
       <h2 style={{
-        textAlign: "center"
-      }}>{newData[0].description}</h2>
+          textAlign: "center"
+        }}>{newData[0].description}</h2>
       {newData[0].additionalPhotos.length > 0 ? (
-        newData[0].additionalPhotos.map((photo, index) => (
-          <img
-            style={{ width: "100%" }}
-            key={index}
-            src={photo}
+          newData[0].additionalPhotos.map((photo, index) => (
+              <img
+              style={{ width: "100%" }}
+              key={index}
+              src={photo}
             alt={`Foto adicional ${index + 1}`}
-          />
-        ))
-      ) : (
-        <h3 style={{
-            color: "red",
-            textAlign: "center"
-        }}>No hay fotos adicionales</h3>
-      )}
+            />
+            ))
+            ) : (
+                <h3 style={{
+                    color: "red",
+                    textAlign: "center"
+                }}>No hay fotos adicionales</h3>
+                )}
+<BackButton />
     </>
   );
 };

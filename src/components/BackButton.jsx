@@ -1,5 +1,6 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
+import "./BackButton.css"
 
 export const BackButton = () => {
   const location = useLocation();
@@ -7,7 +8,7 @@ export const BackButton = () => {
 
   return (
     <Link to={previousPath}>
-      <button>Volver</button>
+      <button className="button-19">Volver</button>
     </Link>
   );
 };
