@@ -12,7 +12,7 @@ function App() {
     <Router>
       <Routes>
         <Route exact path="/" element={<Gallery data={data} />} />
-        <Route path="/photo/:id" element={<PhotoDetails />} />
+        <Route path="/photo/:id" element={<PhotoDetails data={data}/>} />
         {/* <Gallery data={data} /> */}
         {/* <ImageUploader /> */}
         {/* <ImageCard/> seguir trabajando este componente */}
