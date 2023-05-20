@@ -2,11 +2,12 @@ import React from "react";
 import "../components/Gallery.css";
 
 const Gallery = ({ data }) => {
+  const filteredData = data.filter((item) => item.available == true);
   return (
     <>
       <h2 className="title">Artículos a la venta</h2>
       <div className="gallery">
-        {data.map((item) => (
+        {filteredData.map((item) => (
           <div key={item.id} className="card">
             <div className="marco">
               <img src={item.image} alt={item.description} />
