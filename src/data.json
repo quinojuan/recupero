@@ -1,13 +1,14 @@
 [
   {
     "id": 1,
-    "description": "Mesa de algarrobo",
+    "description": "Silla de algarrobo",
     "quantity": 1,
-    "image": "https://i.ibb.co/QvK1hgw/IMG-20230504-WA0079.jpg",
+    "image": "https://i.ibb.co/SB9Zr81/Whats-App-Image-2023-05-20-at-12-10-42-PM.jpg",
     "additionalPhotos": [
-      "https://i.ibb.co/hKk52WW/IMG-20230504-WA0046.jpg",
-      "https://i.ibb.co/ys5WxVg/IMG-20230504-WA0047.jpg",
-      "https://i.ibb.co/Fq5pCDD/IMG-20230504-WA0052.jpg"
+      "https://i.ibb.co/rMzFB75/Whats-App-Image-2023-05-20-at-12-10-41-PM-1.jpg",
+      "https://i.ibb.co/XJV3TNH/Whats-App-Image-2023-05-20-at-12-10-41-PM.jpg",
+      "https://i.ibb.co/PwtN4q6/Whats-App-Image-2023-05-20-at-12-10-40-PM-1.jpg",
+      "https://i.ibb.co/ky2sKGr/Whats-App-Image-2023-05-20-at-12-10-40-PM.jpg]"
     ],
     "price": 5000,
     "available": true
@@ -44,11 +45,7 @@
     "description": "Cable subterráneo 2 x 2,5mm (30 mts)",
     "quantity": 1,
     "image": "https://i.ibb.co/Kw6Zvvm/Cable-subterraneo.png",
-    "additionalPhotos": [
-      "https://i.ibb.co/hKk52WW/IMG-20230504-WA0046.jpg",
-      "https://i.ibb.co/ys5WxVg/IMG-20230504-WA0047.jpg",
-      "https://i.ibb.co/Fq5pCDD/IMG-20230504-WA0052.jpg"
-    ],
+    "additionalPhotos": [],
     "price": 20000,
     "available": true
   }
