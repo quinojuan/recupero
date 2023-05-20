@@ -19,11 +19,11 @@ const WhatsAppButton = () => {
 
         <a
           href="https://wa.me/5493462565170?text=Me%20gustaría%20mas%20información%20de: "
-          class="whatsapp"
+          className="whatsapp"
           target="_blank"
         >
           {" "}
-          <i class="fa fa-whatsapp whatsapp-icon"></i>
+          <i className="fa fa-whatsapp whatsapp-icon"></i>
         </a>
       </div>
     </>

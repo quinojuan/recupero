@@ -1,5 +1,6 @@
 import React from "react";
 import "../components/Gallery.css";
+import { Link } from "react-router-dom";
 
 const Gallery = ({ data }) => {
   const filteredData = data.filter((item) => item.available == true);
@@ -10,7 +11,9 @@ const Gallery = ({ data }) => {
         {filteredData.map((item) => (
           <div key={item.id} className="card">
             <div className="marco">
-              <img src={item.image} alt={item.description} />
+              <Link key={item.id} to={`/photo/${item.id}`}>
+                <img src={item.image} alt={item.description} />
+              </Link>
             </div>
             <div className="details">
               <p className="description">{item.description}</p>
