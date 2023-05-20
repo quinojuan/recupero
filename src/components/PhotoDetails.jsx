@@ -12,7 +12,12 @@ export const PhotoDetails = ({ data }) => {
       <h2>Detalles de la foto {id}</h2>
       {newData[0].additionalPhotos.length > 0 ? (
         newData[0].additionalPhotos.map((photo, index) => (
-          <img key={index} src={photo} alt={`Foto adicional ${index + 1}`} />
+          <img
+            style={{ width: "100%" }}
+            key={index}
+            src={photo}
+            alt={`Foto adicional ${index + 1}`}
+          />
         ))
       ) : (
         <h3>"No hay fotos adicionales"</h3>
