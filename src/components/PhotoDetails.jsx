@@ -1,6 +1,7 @@
 import React from "react";
 import { useParams } from "react-router-dom";
 import { BackButton } from "./BackButton";
+import "./PhotoDetails.css";
 
 export const PhotoDetails = ({ data }) => {
   const { id } = useParams();
@@ -19,19 +20,8 @@ export const PhotoDetails = ({ data }) => {
       </h2>
       {newData[0].additionalPhotos.length > 0 ? (
         newData[0].additionalPhotos.map((photo, index) => (
-          <div style={{
-            display: "flex",
-            justifyContent: "center",
-          }}>
-            <img
-              style={{
-                width: "60%",
-                margin: "10px auto"
-              }}
-              key={index}
-              src={photo}
-              alt={`Foto adicional ${index + 1}`}
-            />
+          <div key={index} className="contenedor">
+            <img key={index} src={photo} alt={`Foto adicional ${index + 1}`} />
           </div>
         ))
       ) : (
