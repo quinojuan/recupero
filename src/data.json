@@ -59,7 +59,7 @@
     "image": "https://i.ibb.co/Kw6Zvvm/Cable-subterraneo.png",
     "additionalPhotos": ["https://i.ibb.co/yySL3fJ/Cable-subt.png"],
     "price": 20000,
-    "available": true
+    "available": false
   },
   {
     "id": 6,
