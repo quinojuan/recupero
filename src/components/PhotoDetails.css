@@ -10,8 +10,6 @@
 
 /* Reglas CSS para dispositivos móviles */
 @media only screen and (max-width: 767px) {
-  /* Aquí puedes agregar las reglas CSS que deseas aplicar en dispositivos móviles */
-  /* Por ejemplo: */
   .contenedor img {
     width: 90%;
     margin: 5px;
