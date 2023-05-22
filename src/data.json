@@ -127,5 +127,22 @@
     "available": true,
     "sold": false,
     "description": ""
+  },
+  {
+    "id": 10,
+    "title": "LOTE Piso canal (ideal ELECTRICISTAS)",
+    "quantity": 1,
+    "image": " https://i.ibb.co/X5vZ9t4/tiras-varias.jpg",
+    "additionalPhotos": [
+      "https://i.ibb.co/FYXP31d/7517-big.jpg",
+      "https://i.ibb.co/zJ2XMHS/redonda.jpg",
+      "https://i.ibb.co/qWjgtjH/4513.jpg",
+      "https://i.ibb.co/0KNpFNx/4513-desc.jpg",
+      "https://i.ibb.co/202GvqF/7517-desc.jpg"
+    ],
+    "price": 12000,
+    "available": true,
+    "sold": false,
+    "description": "Tienen pequeños detalles, son mas de 12 tiras. Hay 16 metros lineales de pisocanal"
   }
 ]
