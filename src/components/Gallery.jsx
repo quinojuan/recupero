@@ -18,7 +18,7 @@ const Gallery = ({ data }) => {
             </div>
             <div className="details">
               <p className="title">{item.title}</p>
-              <p className="price">$ {item.price} c/u </p>
+              <p className="price">$ {item.price} {item.title.includes("canal") ? "" : "c/u"} </p>
               <p className="description">{item.description}</p>
               <p className="quantity">Unidades disponibles: <span>{item.quantity}</span></p>
             </div>
