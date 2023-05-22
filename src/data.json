@@ -11,7 +11,8 @@
       "https://i.ibb.co/ky2sKGr/Whats-App-Image-2023-05-20-at-12-10-40-PM.jpg]"
     ],
     "price": 5000,
-    "available": true
+    "available": true,
+    "sold": false
   },
   {
     "id": 2,
@@ -24,7 +25,8 @@
       "https://i.ibb.co/pQhSBQq/Whats-App-Image-2023-05-20-at-12-10-58-PM-2.jpg]"
     ],
     "price": 10000,
-    "available": false
+    "available": false,
+    "sold": false
   },
   {
     "id": 3,
@@ -39,16 +41,22 @@
       "https://i.ibb.co/SnMbLS9/Whats-App-Image-2023-05-20-at-12-10-57-PM.jpg"
     ],
     "price": 5000,
-    "available": false
+    "available": false,
+    "sold": false
   },
   {
     "id": 4,
     "description": "Aire acondicionado Philco",
     "quantity": 1,
     "image": "https://i.ibb.co/ScM4G70/Aire-acondicionado-philco.jpg",
-    "additionalPhotos": [],
+    "additionalPhotos": [
+      "https://i.ibb.co/027NxHF/unidad-ext-1.jpg",
+      "https://i.ibb.co/8myCMdJ/unidad-ext-2.jpg",
+      "https://i.ibb.co/tb3VkMD/etiqueta.jpg"
+    ],
     "price": 150000,
-    "available": false
+    "available": true,
+    "sold": false
   },
   {
     "id": 5,
@@ -57,7 +65,8 @@
     "image": "https://i.ibb.co/Kw6Zvvm/Cable-subterraneo.png",
     "additionalPhotos": ["https://i.ibb.co/yySL3fJ/Cable-subt.png"],
     "price": 20000,
-    "available": false
+    "available": false,
+    "sold": true
   },
   {
     "id": 6,
@@ -70,7 +79,8 @@
       "https://i.ibb.co/R6NkBTS/Whats-App-Image-2023-05-20-at-12-10-38-PM.jpg"
     ],
     "price": 10000,
-    "available": true
+    "available": true,
+    "sold": false
   },
   {
     "id": 7,
@@ -83,7 +93,8 @@
       "https://i.ibb.co/fSr6bX5/Whats-App-Image-2023-05-20-at-12-10-44-PM-1.jpg"
     ],
     "price": 10000,
-    "available": false
+    "available": false,
+    "sold": false
   },
   {
     "id": 8,
@@ -94,7 +105,8 @@
       "https://i.ibb.co/Wkc0zyT/Whats-App-Image-2023-05-20-at-12-10-54-PM.jpg",
       "https://i.ibb.co/PZ3V0dR/Whats-App-Image-2023-05-20-at-12-10-43-PM.jpg"
     ],
-    "price": 10000,
-    "available": true
+    "price": 120000,
+    "available": true,
+    "sold": false
   }
 ]
