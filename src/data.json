@@ -19,10 +19,10 @@
     "quantity": 1,
     "image": "https://i.ibb.co/smd5WMb/Whats-App-Image-2023-05-20-at-12-10-59-PM.jpg",
     "additionalPhotos": [
-    "https://i.ibb.co/smd5WMb/Whats-App-Image-2023-05-20-at-12-10-59-PM.jpg",
-    "https://i.ibb.co/TqnkQTQ/Whats-App-Image-2023-05-20-at-12-10-58-PM-3.jpg",
-    "https://i.ibb.co/pQhSBQq/Whats-App-Image-2023-05-20-at-12-10-58-PM-2.jpg]"
-  ],
+      "https://i.ibb.co/smd5WMb/Whats-App-Image-2023-05-20-at-12-10-59-PM.jpg",
+      "https://i.ibb.co/TqnkQTQ/Whats-App-Image-2023-05-20-at-12-10-58-PM-3.jpg",
+      "https://i.ibb.co/pQhSBQq/Whats-App-Image-2023-05-20-at-12-10-58-PM-2.jpg]"
+    ],
     "price": 10000,
     "available": false
   },
@@ -32,11 +32,11 @@
     "quantity": 2,
     "image": "https://i.ibb.co/RTvCBvT/Whats-App-Image-2023-05-20-at-12-10-58-PM-1.jpg",
     "additionalPhotos": [
-    "https://i.ibb.co/RTvCBvT/Whats-App-Image-2023-05-20-at-12-10-58-PM-1.jpg",
-    "https://i.ibb.co/QmrD8tR/Whats-App-Image-2023-05-20-at-12-10-58-PM.jpg",
-    "https://i.ibb.co/5kyK691/Whats-App-Image-2023-05-20-at-12-10-57-PM-2.jpg",
-    "https://i.ibb.co/g6HzbsH/Whats-App-Image-2023-05-20-at-12-10-57-PM-1.jpg",
-    "https://i.ibb.co/SnMbLS9/Whats-App-Image-2023-05-20-at-12-10-57-PM.jpg"
+      "https://i.ibb.co/RTvCBvT/Whats-App-Image-2023-05-20-at-12-10-58-PM-1.jpg",
+      "https://i.ibb.co/QmrD8tR/Whats-App-Image-2023-05-20-at-12-10-58-PM.jpg",
+      "https://i.ibb.co/5kyK691/Whats-App-Image-2023-05-20-at-12-10-57-PM-2.jpg",
+      "https://i.ibb.co/g6HzbsH/Whats-App-Image-2023-05-20-at-12-10-57-PM-1.jpg",
+      "https://i.ibb.co/SnMbLS9/Whats-App-Image-2023-05-20-at-12-10-57-PM.jpg"
     ],
     "price": 5000,
     "available": false
@@ -44,11 +44,9 @@
   {
     "id": 4,
     "description": "Aire acondicionado Philco",
-    "quantity": 2,
+    "quantity": 1,
     "image": "https://i.ibb.co/ScM4G70/Aire-acondicionado-philco.jpg",
-    "additionalPhotos": [
-
-    ],
+    "additionalPhotos": [],
     "price": 150000,
     "available": false
   },
@@ -66,9 +64,11 @@
     "description": "Mesa chica de algarrobo",
     "quantity": 1,
     "image": "https://i.ibb.co/WkP3FVb/Whats-App-Image-2023-05-20-at-12-10-42-PM-1.jpg",
-    "additionalPhotos": ["https://i.ibb.co/zZh70R9/Whats-App-Image-2023-05-20-at-12-10-39-PM.jpg",
-    "https://i.ibb.co/6t2qtng/Whats-App-Image-2023-05-20-at-12-10-39-PM-1.jpg",
-    "https://i.ibb.co/R6NkBTS/Whats-App-Image-2023-05-20-at-12-10-38-PM.jpg"],
+    "additionalPhotos": [
+      "https://i.ibb.co/zZh70R9/Whats-App-Image-2023-05-20-at-12-10-39-PM.jpg",
+      "https://i.ibb.co/6t2qtng/Whats-App-Image-2023-05-20-at-12-10-39-PM-1.jpg",
+      "https://i.ibb.co/R6NkBTS/Whats-App-Image-2023-05-20-at-12-10-38-PM.jpg"
+    ],
     "price": 10000,
     "available": true
   },
@@ -81,22 +81,20 @@
       "https://i.ibb.co/gWhpn73/Whats-App-Image-2023-05-20-at-12-10-45-PM-1.jpg",
       "https://i.ibb.co/YjwTkJc/Whats-App-Image-2023-05-20-at-12-10-45-PM.jpg",
       "https://i.ibb.co/fSr6bX5/Whats-App-Image-2023-05-20-at-12-10-44-PM-1.jpg"
-  ],
+    ],
     "price": 10000,
     "available": false
   },
   {
     "id": 8,
-    "description": "Aire sala B",
+    "description": "Aire acondiciondado Diplomatic",
     "quantity": 1,
-    "image": "https://i.ibb.co/NK2FcTz/Whats-App-Image-2023-05-20-at-12-10-44-PM.jpg",
+    "image": "https://i.ibb.co/3pkS7G7/Whats-App-Image-2023-05-20-at-12-10-43-PM-1.jpg",
     "additionalPhotos": [
-      "https://i.ibb.co/NK2FcTz/Whats-App-Image-2023-05-20-at-12-10-44-PM.jpg",
-      "https://i.ibb.co/k9jd04p/Whats-App-Image-2023-05-20-at-12-10-43-PM-1.jpg",
-      "https://i.ibb.co/k35NWg0/Whats-App-Image-2023-05-20-at-12-10-43-PM.jpg"
-      
-  ],
+      "https://i.ibb.co/Wkc0zyT/Whats-App-Image-2023-05-20-at-12-10-54-PM.jpg",
+      "https://i.ibb.co/PZ3V0dR/Whats-App-Image-2023-05-20-at-12-10-43-PM.jpg"
+    ],
     "price": 10000,
-    "available": false
+    "available": true
   }
 ]

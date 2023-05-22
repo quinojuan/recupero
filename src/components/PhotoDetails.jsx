@@ -8,7 +8,6 @@ export const PhotoDetails = ({ data }) => {
 
   let newData = data.filter((item) => item.id == id);
 
-  console.log(newData);
   return (
     <>
       <h2

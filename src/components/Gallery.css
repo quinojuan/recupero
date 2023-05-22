@@ -19,6 +19,10 @@
 .card {
   border: 1px solid black;
   width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
 
 }
 
