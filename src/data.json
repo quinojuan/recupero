@@ -84,8 +84,8 @@
       "https://i.ibb.co/R6NkBTS/Whats-App-Image-2023-05-20-at-12-10-38-PM.jpg"
     ],
     "price": 10000,
-    "available": true,
-    "sold": false,
+    "available": false,
+    "sold": true,
     "description": "Medidas 60cm x 60cm"
   },
   {
