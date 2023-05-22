@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "description": "Silla de algarrobo",
+    "title": "Silla de algarrobo",
     "quantity": 4,
     "image": "https://i.ibb.co/SB9Zr81/Whats-App-Image-2023-05-20-at-12-10-42-PM.jpg",
     "additionalPhotos": [
@@ -12,11 +12,12 @@
     ],
     "price": 5000,
     "available": true,
-    "sold": false
+    "sold": false,
+    "description": "El estado general es bueno. Sólo tiene algunos detalles estéticos"
   },
   {
     "id": 2,
-    "description": "Atril",
+    "title": "Atril",
     "quantity": 1,
     "image": "https://i.ibb.co/smd5WMb/Whats-App-Image-2023-05-20-at-12-10-59-PM.jpg",
     "additionalPhotos": [
@@ -26,11 +27,12 @@
     ],
     "price": 10000,
     "available": false,
-    "sold": false
+    "sold": false,
+    "description": ""
   },
   {
     "id": 3,
-    "description": "Florero alto",
+    "title": "Florero alto",
     "quantity": 2,
     "image": "https://i.ibb.co/RTvCBvT/Whats-App-Image-2023-05-20-at-12-10-58-PM-1.jpg",
     "additionalPhotos": [
@@ -42,11 +44,12 @@
     ],
     "price": 5000,
     "available": false,
-    "sold": false
+    "sold": false,
+    "description": ""
   },
   {
     "id": 4,
-    "description": "Aire acondicionado Philco",
+    "title": "Aire acondicionado Philco",
     "quantity": 1,
     "image": "https://i.ibb.co/ScM4G70/Aire-acondicionado-philco.jpg",
     "additionalPhotos": [
@@ -56,21 +59,23 @@
     ],
     "price": 150000,
     "available": true,
-    "sold": false
+    "sold": false,
+    "description": ""
   },
   {
     "id": 5,
-    "description": "Cable subterráneo 2 x 2,5mm (30 mts)",
+    "title": "Cable subterráneo 2 x 2,5mm (30 mts)",
     "quantity": 1,
     "image": "https://i.ibb.co/Kw6Zvvm/Cable-subterraneo.png",
     "additionalPhotos": ["https://i.ibb.co/yySL3fJ/Cable-subt.png"],
     "price": 20000,
     "available": false,
-    "sold": true
+    "sold": true,
+    "description": ""
   },
   {
     "id": 6,
-    "description": "Mesa chica de algarrobo",
+    "title": "Mesa chica de algarrobo",
     "quantity": 1,
     "image": "https://i.ibb.co/WkP3FVb/Whats-App-Image-2023-05-20-at-12-10-42-PM-1.jpg",
     "additionalPhotos": [
@@ -80,11 +85,12 @@
     ],
     "price": 10000,
     "available": true,
-    "sold": false
+    "sold": false,
+    "description": ""
   },
   {
     "id": 7,
-    "description": "Florero chico",
+    "title": "Florero chico",
     "quantity": 1,
     "image": "https://i.ibb.co/gWhpn73/Whats-App-Image-2023-05-20-at-12-10-45-PM-1.jpg",
     "additionalPhotos": [
@@ -94,11 +100,12 @@
     ],
     "price": 10000,
     "available": false,
-    "sold": false
+    "sold": false,
+    "description": ""
   },
   {
     "id": 8,
-    "description": "Aire acondiciondado Diplomatic",
+    "title": "Aire acondiciondado Diplomatic",
     "quantity": 1,
     "image": "https://i.ibb.co/3pkS7G7/Whats-App-Image-2023-05-20-at-12-10-43-PM-1.jpg",
     "additionalPhotos": [
@@ -107,6 +114,18 @@
     ],
     "price": 120000,
     "available": true,
-    "sold": false
+    "sold": false,
+    "description": ""
+  },
+  {
+    "id": 9,
+    "title": "TONER GN-TO285U/35A/36A/85A",
+    "quantity": 1,
+    "image": "https://i.ibb.co/3mJbPYx/toner.png",
+    "additionalPhotos": [],
+    "price": 5000,
+    "available": true,
+    "sold": false,
+    "description": ""
   }
 ]

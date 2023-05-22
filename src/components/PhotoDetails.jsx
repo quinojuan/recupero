@@ -15,7 +15,7 @@ export const PhotoDetails = ({ data }) => {
           textAlign: "center",
         }}
       >
-        {newData[0].description}
+        {newData[0].title}
       </h2>
       {newData[0].additionalPhotos.length > 0 ? (
         newData[0].additionalPhotos.map((photo, index) => (
