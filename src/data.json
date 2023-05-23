@@ -144,5 +144,23 @@
     "available": true,
     "sold": false,
     "description": "Tienen pequeños detalles, son mas de 12 tiras. Hay 16 metros lineales de pisocanal"
+  },
+  {
+    "id": 11,
+    "title": "Tira LED Rojo/verde/azul",
+    "quantity": 1,
+    "image": "https://i.ibb.co/HpFbLP0/principal.png",
+    "additionalPhotos": [
+      "https://i.ibb.co/2jjL5PS/Whats-App-Image-2023-05-23-at-11-57-37-AM.jpg",
+      "https://i.ibb.co/V97sLLX/Whats-App-Image-2023-05-23-at-12-03-38-PM.jpg",
+      "https://i.ibb.co/K6zWQQd/Whats-App-Image-2023-05-23-at-11-57-58-AM.jpg",
+      "https://i.ibb.co/bX1js7G/Whats-App-Image-2023-05-23-at-11-58-33-AM.jpg",
+      "https://i.ibb.co/FJn5HWv/Adhesivo-3-M.png",
+      "https://i.ibb.co/8XXmf29/adaptable-al-largo.png"
+    ],
+    "price": 3000,
+    "available": true,
+    "sold": false,
+    "description": "Funciona con una fuente de 12v (NO INCLUIDA)"
   }
 ]
