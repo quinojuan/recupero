@@ -159,7 +159,7 @@
       "https://i.ibb.co/8XXmf29/adaptable-al-largo.png"
     ],
     "price": 3000,
-    "available": true,
+    "available": false,
     "sold": false,
     "description": "Funciona con una fuente de 12v (NO INCLUIDA)"
   },
@@ -170,7 +170,7 @@
     "image": "https://i.ibb.co/HpFbLP0/principal.png",
     "additionalPhotos": ["https://i.ibb.co/LRhqyQQ/4mts.jpg"],
     "price": 2000,
-    "available": true,
+    "available": false,
     "sold": false,
     "description": "Fuente de 12v y accesorios (NO INCLUIDOS)"
   },
@@ -181,7 +181,7 @@
     "image": "https://i.ibb.co/HpFbLP0/principal.png",
     "additionalPhotos": ["https://i.ibb.co/9shQsW7/3punto3mts.jpg"],
     "price": 1650,
-    "available": true,
+    "available": false,
     "sold": false,
     "description": "Fuente de 12v y accesorios (NO INCLUIDOS)"
   }
