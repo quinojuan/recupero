@@ -184,5 +184,20 @@
     "available": false,
     "sold": false,
     "description": "Fuente de 12v y accesorios (NO INCLUIDOS)"
+  },
+  {
+    "id": 14,
+    "title": "Motorola g8 play",
+    "quantity": 1,
+    "image": "https://i.ibb.co/rbfsbwQ/Whats-App-Image-2023-05-23-at-10-41-58-PM.jpg",
+    "additionalPhotos": [
+      "https://i.ibb.co/X31N4Qs/desc.png",
+      "https://i.ibb.co/rbfsbwQ/Whats-App-Image-2023-05-23-at-10-41-58-PM.jpg",
+      "https://i.ibb.co/9NWdHWf/Whats-App-Image-2023-05-23-at-6-36-03-AM-1.jpg"
+    ],
+    "price": 30000,
+    "available": true,
+    "sold": false,
+    "description": "Tocá la foto para mas detalles!"
   }
 ]
