@@ -1,5 +1,68 @@
 [
   {
+    "id": 14,
+    "title": "Motorola g8 play",
+    "quantity": 1,
+    "image": "https://i.ibb.co/rbfsbwQ/Whats-App-Image-2023-05-23-at-10-41-58-PM.jpg",
+    "additionalPhotos": [
+      "https://i.ibb.co/X31N4Qs/desc.png",
+      "https://i.ibb.co/rbfsbwQ/Whats-App-Image-2023-05-23-at-10-41-58-PM.jpg",
+      "https://i.ibb.co/9NWdHWf/Whats-App-Image-2023-05-23-at-6-36-03-AM-1.jpg"
+    ],
+    "price": 30000,
+    "available": true,
+    "sold": false,
+    "description": "Tocá la foto para mas detalles!"
+  },
+
+  {
+    "id": 15,
+    "title": "Samsung J2 core",
+    "quantity": 1,
+    "image": "https://i.ibb.co/590zhHP/celu.jpg",
+    "additionalPhotos": [
+      "https://i.ibb.co/590zhHP/celu.jpg",
+      "https://i.ibb.co/8mpGgB5/descripcion-celu.jpg",
+      "https://i.ibb.co/n3zjnXQ/Whats-App-Image-2023-05-23-at-10-44-35-PM.jpg"
+    ],
+    "price": 15000,
+    "available": true,
+    "sold": false,
+    "description": "Tocá la foto para mas detalles!"
+  },
+
+  {
+    "id": 16,
+    "title": "Rollers deportivos extensibles",
+    "quantity": 1,
+    "image": "https://i.ibb.co/rGxgg0p/Whats-App-Image-2023-05-31-at-07-44-10.jpg",
+    "additionalPhotos": [
+      "https://i.ibb.co/6Y3q4Xb/Whats-App-Image-2023-05-31-at-07-15-53-1.jpg",
+      "https://i.ibb.co/Yb6TttG/Whats-App-Image-2023-05-31-at-07-15-53.jpg"
+    ],
+    "price": 18000,
+    "available": true,
+    "sold": false,
+    "description": "Tocá la foto para mas detalles!"
+  },
+
+  {
+    "id": 17,
+    "title": "Secador de pelo GAMA",
+    "quantity": 1,
+    "image": "https://i.ibb.co/jz7JkhJ/secador-0.jpg",
+    "additionalPhotos": [
+      "https://i.ibb.co/jz7JkhJ/secador-0.jpg",
+      "https://i.ibb.co/FbgtSyL/secador-1.jpg",
+      "https://i.ibb.co/MVchzW5/secador.jpg"
+    ],
+    "price": 8000,
+    "available": true,
+    "sold": false,
+    "description": "Tocá la foto para mas detalles!"
+  },
+  
+  {
     "id": 1,
     "title": "Silla de algarrobo",
     "quantity": 4,
@@ -184,20 +247,7 @@
     "available": false,
     "sold": false,
     "description": "Fuente de 12v y accesorios (NO INCLUIDOS)"
-  },
-  {
-    "id": 14,
-    "title": "Motorola g8 play",
-    "quantity": 1,
-    "image": "https://i.ibb.co/rbfsbwQ/Whats-App-Image-2023-05-23-at-10-41-58-PM.jpg",
-    "additionalPhotos": [
-      "https://i.ibb.co/X31N4Qs/desc.png",
-      "https://i.ibb.co/rbfsbwQ/Whats-App-Image-2023-05-23-at-10-41-58-PM.jpg",
-      "https://i.ibb.co/9NWdHWf/Whats-App-Image-2023-05-23-at-6-36-03-AM-1.jpg"
-    ],
-    "price": 30000,
-    "available": true,
-    "sold": false,
-    "description": "Tocá la foto para mas detalles!"
   }
+ 
 ]
+
