@@ -176,7 +176,7 @@
       "https://i.ibb.co/PZ3V0dR/Whats-App-Image-2023-05-20-at-12-10-43-PM.jpg"
     ],
     "price": 120000,
-    "available": true,
+    "available": false,
     "sold": false,
     "description": "Se entregan con las ménsulas para instalación"
   },
