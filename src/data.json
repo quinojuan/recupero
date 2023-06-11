@@ -121,7 +121,7 @@
       "https://i.ibb.co/tb3VkMD/etiqueta.jpg"
     ],
     "price": 200000,
-    "available": true,
+    "available": false,
     "sold": false,
     "description": "Se entregan con las ménsulas para instalación"
   },
